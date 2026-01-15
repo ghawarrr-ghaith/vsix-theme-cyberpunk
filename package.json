@@ -2,7 +2,7 @@
     "name": "cyberpunk-2077-theme",
     "displayName": "Cyberpunk 2077 Theme",
     "description": "Themes inspired by Night City and Johnny Silverhand.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "verzi",
     "engines": {
         "vscode": "^1.60.0"
