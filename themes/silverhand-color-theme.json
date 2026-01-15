@@ -1,0 +1,69 @@
+{
+	"name": "Cyberpunk: Silverhand",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#080a10",
+		"editor.foreground": "#5F94F1",
+		"activityBar.background": "#0b0e16",
+		"activityBar.foreground": "#5F94F1",
+		"sideBar.background": "#0b0e16",
+		"sideBar.foreground": "#5F94F1",
+		"statusBar.background": "#5F94F1",
+		"statusBar.foreground": "#080a10",
+		"titleBar.activeBackground": "#10141f",
+		"editorCursor.foreground": "#F3AF2F",
+		"editorLineNumber.foreground": "#405060",
+		"editorLineNumber.activeForeground": "#5F94F1",
+		"editor.selectionBackground": "#5F94F130",
+		"list.activeSelectionBackground": "#182030",
+		"list.activeSelectionForeground": "#5F94F1",
+		"focusBorder": "#5F94F1"
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#405060",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#F3AF2F",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"foreground": "#C3CC45"
+			}
+		},
+		{
+			"name": "Function",
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#5F94F1",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Variable",
+			"scope": "variable",
+			"settings": {
+				"foreground": "#F3AF2F"
+			}
+		},
+		{
+			"name": "Constant",
+			"scope": "constant",
+			"settings": {
+				"foreground": "#C3CC45"
+			}
+		}
+	]
+}

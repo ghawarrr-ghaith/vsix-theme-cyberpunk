@@ -1,0 +1,31 @@
+{
+    "name": "cyberpunk-2077-theme",
+    "displayName": "Cyberpunk 2077 Theme",
+    "description": "Themes inspired by Night City and Johnny Silverhand.",
+    "version": "0.0.1",
+    "publisher": "verzi",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cyberpunk: Night City",
+                "uiTheme": "vs-dark",
+                "path": "./themes/night-city-color-theme.json"
+            },
+            {
+                "label": "Cyberpunk: Silverhand",
+                "uiTheme": "vs-dark",
+                "path": "./themes/silverhand-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/verzi/cyberpunk-2077-theme"
+    }
+}

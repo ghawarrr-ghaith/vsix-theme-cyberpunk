@@ -1,0 +1,53 @@
+{
+	"name": "Cyberpunk: Night City",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#020202",
+		"editor.foreground": "#fceeb5",
+		"activityBar.background": "#000000",
+		"activityBar.foreground": "#fcee0a",
+		"sideBar.background": "#050505",
+		"sideBar.foreground": "#00f0ff",
+		"statusBar.background": "#fcee0a",
+		"statusBar.foreground": "#000000",
+		"titleBar.activeBackground": "#000000",
+		"editorCursor.foreground": "#00f0ff",
+		"editorLineNumber.foreground": "#505030",
+		"editorLineNumber.activeForeground": "#fcee0a",
+		"editor.selectionBackground": "#00f0ff40",
+		"list.activeSelectionBackground": "#202020",
+		"list.activeSelectionForeground": "#fcee0a",
+		"focusBorder": "#fcee0a"
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#606060"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#fcee0a",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"foreground": "#00f0ff"
+			}
+		},
+		{
+			"name": "Function",
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#ff003c"
+			}
+		}
+	]
+}
